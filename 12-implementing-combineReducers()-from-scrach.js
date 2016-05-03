@@ -46,6 +46,8 @@ const visibilityFilter = (state = 'SHOW_ALL', action) => {
 // implementing combineReducers() from scratch
 //////////////////////////////////////////////
 
+// Array.prototype.reduce() (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+
 /*
 -----------------------------------------------------------------------------------------------------
         | nextState           | key                  | return value
